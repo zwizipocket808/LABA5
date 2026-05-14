@@ -22,3 +22,7 @@
 <img width="650" height="180" alt="image" src="https://github.com/user-attachments/assets/f6a4cdcf-f071-4cb3-b80d-bf2a528d1ef6" />
 
 
+Источники:
+1. https://docs.python.org/3/tutorial/controlflow.html#defining-function
+2. https://docs.python.org/3/library/tracemalloc.html
+3. https://docs.python.org/3/glossary.html#term-decorator
