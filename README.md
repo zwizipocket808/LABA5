@@ -15,7 +15,8 @@
 
 Код программы:
 
-<img width="634" height="340" alt="image" src="https://github.com/user-attachments/assets/4113eef5-d86c-4c3d-a2c5-934fed6efab4" />
+<img width="643" height="470" alt="Screenshot_20260514_160251" src="https://github.com/user-attachments/assets/e1caefa0-cbee-407d-a3c4-cf582ebaaa85" />
+
 
 
 Результат:
